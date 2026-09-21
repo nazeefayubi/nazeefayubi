@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋,I'm Nazeef Ayubi
+
+🎓 B.Sc. Computer Science & Application student at Aligarh Muslim University
+
+💻 Currently learning Python and exploring software development
+
+🚀 Interested in Web Development, Programming & Technology
+
+📚 Learning, building, and improving one project at a time.
 
 <!--
 **nazeefayubi/nazeefayubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
